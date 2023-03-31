@@ -1,6 +1,6 @@
 Name:		texlive-font-change-xetex
 Version:	40404
-Release:	1
+Release:	2
 Summary:	Macros to change text and mathematics fonts in plain XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/font-change-xetex
