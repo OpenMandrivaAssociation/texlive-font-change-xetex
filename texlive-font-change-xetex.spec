@@ -3,7 +3,7 @@ Version:	40404
 Release:	2
 Summary:	Macros to change text and mathematics fonts in plain XeTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/font-change-xetex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/font-change-xetex
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/font-change-xetex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/font-change-xetex.doc.r%{version}.tar.xz
